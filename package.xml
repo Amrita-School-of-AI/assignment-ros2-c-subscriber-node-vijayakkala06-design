@@ -1,39 +1,22 @@
 <?xml version="1.0"?>
-<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ros2_subscriber</name>
   <version>0.0.0</version>
-<<<<<<< HEAD
-  <description>ROS 2 C++ Subscriber Node</description>
+  <description>ROS2 Subscriber Node</description>
 
-  <maintainer email="rajeshkumarreddykasireddy5@gmail.com">
-    kasireddy-rajesh-kumar
+  <maintainer email="vijaykiranreddy@example.com">
+    vijay-kiran-reddy
   </maintainer>
 
-=======
-  <description>Assignment: ROS2 Subscriber Node</description>
-  <maintainer email="student@university.edu">Student Name</maintainer>
->>>>>>> 0af5982ac57a4d0c3036fcbcafe23c806a58e3fd
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-<<<<<<< HEAD
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
-=======
-  <!-- TODO: Add dependencies for rclcpp and std_msgs -->
->>>>>>> 0af5982ac57a4d0c3036fcbcafe23c806a58e3fd
-
-  <test_depend>ament_lint_auto</test_depend>
-  <test_depend>ament_lint_common</test_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
   </export>
 </package>
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 0af5982ac57a4d0c3036fcbcafe23c806a58e3fd
